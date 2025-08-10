@@ -18,6 +18,7 @@ db.env
 # Django static & media
 staticfiles/
 media/
+SynkKart/settings.py
 
 # Logs
 *.log
